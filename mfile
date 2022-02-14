@@ -1,0 +1,7 @@
+{
+  "package": "XaosInterface",
+  "version": "0.2",
+  "author": "Quid and Noax",
+  "title": "Xaosmud Mudlet Interface",
+  "outputFile": true
+}
